@@ -85,6 +85,7 @@
 .button-container .active {
   background-color: #424ea5;
   border-color: #424ea5;
+  color: white;
 }
 
 .footer {
